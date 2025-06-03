@@ -2,4 +2,4 @@ TELEGRAM_TOKEN = "8173286718:AAF4A0mn2JKtg2VWIlakIUur10siRNPNu_o"
 OPENAI_API_KEY = "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"
 
 SUPPORTED_LANGUAGES = ["fa", "en", "hi", "fr"]
-ADMIN_USER_IDS = [t.me/Hoomanrstmi]
+ADMIN_USER_IDS = ["Hoomanrstmi"]
